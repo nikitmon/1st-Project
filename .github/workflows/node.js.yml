@@ -16,7 +16,7 @@ npm run build:
 
 - name: Run a multi-line script
 run:
-echo Add other actions to build,
-echo test, and deploy your project.
+"echo Add other actions to build,"
+"echo test, and deploy your project."
 - name: Run Js file for test
 run: node script.js
